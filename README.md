@@ -65,7 +65,7 @@ At the optimized threshold of 0.45, the system achieved:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/Ananyasrv7/Job-Recommender-System.git
 ```
 
 Install dependencies:
