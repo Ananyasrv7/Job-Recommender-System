@@ -102,7 +102,7 @@ The system extends existing CareerBERT-based approaches by introducing actionabl
 
 ## Author
 Ananya Srivastava & Shivam Mittal
-Manipal University Jaipur
+(Manipal University Jaipur)
 
 ## Research Paper
 Title:
